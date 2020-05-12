@@ -1,0 +1,13 @@
+body {
+    background-color: slategrey;
+    color: cyan;
+}
+
+div {
+    border: 2px;
+    border-color: black;
+}
+
+img {
+    max-width: 100%;
+}
